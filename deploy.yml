@@ -3,7 +3,7 @@ version: "2.0"
 
 services:
   web:
-    image: blinddev /akash-yml-generator
+    image: blinddev/akash-yml-generator
     expose:
       - port: 80
         as: 80
